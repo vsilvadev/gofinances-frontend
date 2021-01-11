@@ -26,11 +26,40 @@
 <h2>🖥 The Application<a name="application"></a></h2>
 <img src="https://github.com/vsilvadev/gofinances-frontend/blob/main/git_files/gofinances-gif.gif" alt="Running Application">
 
+<h2>❗ How to run<a name="how-to"></a></h2>
+<h3>Prerequisites</h3>
+Before starting, you will need to have the following tools installed on your machine<br><br>
+<a href="https://git-scm.com">
+<img src="https://img.shields.io/static/v1?label=Install&message=GIT&color=f14e32&style=for-the-badge"/>
+</a>
+<br>
+<a href="https://classic.yarnpkg.com/en/docs/install/#windows-stable">
+<img src="https://img.shields.io/static/v1?label=Install&message=YARN&color=2188b6&style=for-the-badge"/>
+</a>
+
+<h3>Running the project</h3>
+<h4>Clone this repository</h4>
+$ git clone https://github.com/vsilvadev/gofinances-frontend.git
+
+<h4>Access the project folder in the terminal/cmd</h4>
+$ cd gofinances-frontend
+
+<h4>Install the dependencies</h4>
+$ yarn 
+
+<h4>Run the application</h4>
+$ yarn start
+
+<h4>See the application running</h4>
+<p>The app will start at port:3000 - go to http://localhost:3000</p>
+<br>
+
+📌 For the application to work you will need to have the back-end on. You can get more information about the back-end at https://github.com/vsilvadev/gofinances-backend
+
 <h2>🛠 Technologies<a name="tech"></a></h2>
 The following tools were used in the construction of the project: <br><br>
 
 • TypeScript <br>
-• NodeJS <br>
 • ReactJS <br>
 • Styled Components <br>
 • Axios <br>
