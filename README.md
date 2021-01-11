@@ -64,7 +64,6 @@ The following tools were used in the construction of the project: <br><br>
 • ReactJS <br>
 • Styled Components <br>
 • Axios <br>
-• Date-FNS <br>
 
 <h2>⭐ Author<a name="author"></a></h2>
 <h3>Vitor Silva</h3> 
