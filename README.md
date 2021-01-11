@@ -33,7 +33,7 @@ The following tools were used in the construction of the project: <br><br>
 • NodeJS <br>
 • ReactJS <br>
 • Styled Components <br>
-• Axios <br
+• Axios <br>
 • Date-FNS <br>
 
 <h2>⭐ Author<a name="author"></a></h2>
