@@ -10,6 +10,7 @@
   • <a href="#project_status">Project Status</a> <br>
   • <a href="#features">Features</a> <br>
   • <a href="#application">The Application</a> <br>
+  • <a href="#how-to">How to run</a> <br>
   • <a href="#tech">Technologies</a> <br>
   • <a href="#author">Author</a> <br>
 
